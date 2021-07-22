@@ -1,13 +1,13 @@
-## I am Ruchir - aka [cheeka](https://www.linkedin.com/in/ssudher/)👋
+## I am Ruchir - [LinkedIn](https://www.linkedin.com/in/ruag05/)👋
 ### I'm a Masters Student in Software Engineering at SJ State University and a Developer -> check my [Git](https://github.com/ruag05?tab=repositories).
 * 👯 my [***resume***](https://github.com/ssudher/Resume/blob/main/Shrikanth_Sudhersan_Resume.pdf)
-* 🥅 2021 Goals: Practice more on Data Structures and Algorithms
+* 🥅 2021 Goals: Practice more of Data Structures and Algorithms
 * ⚡ Fun fact: I love to watch sci-fi movies, table-tennis
 
 ### Connect with me:
 
-[<img align="left" alt="ssudher | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="soulful_hobby | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ruag05 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="_ruchiragarwal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
