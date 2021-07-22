@@ -1,6 +1,6 @@
 ## I am Ruchir - [LinkedIn](https://www.linkedin.com/in/ruag05/)👋
 ### I'm a Masters Student in Software Engineering at SJ State University and a Developer -> check my [Git](https://github.com/ruag05?tab=repositories).
-* 👯 my [***resume***](https://github.com/ssudher/Resume/blob/main/Shrikanth_Sudhersan_Resume.pdf)
+* 👯 my [***resume***]()
 * 🥅 2021 Goals: Practice more of Data Structures and Algorithms
 * ⚡ Fun fact: I love to watch sci-fi movies, table-tennis
 
