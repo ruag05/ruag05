@@ -1,8 +1,8 @@
 ## I am Ruchir 👋 - [Check me out](https://www.linkedin.com/in/ruag05/)
 ## I'm a Masters Student in Software Engineering at SJ State University and a Developer - check my [Git](https://github.com/ruag05?tab=repositories)
 * 📄 My [***resume***]()
-* 🥅 2021 Goals: Practice more of Data Structures and Algorithms
-* ⚡ Fun fact: I love to watch sci-fi movies, table-tennis
+* 🎯 2021 Goals: Practice more of Data Structures and Algorithms
+* ⚡⚡ Fun fact: I love to watch sci-fi movies, table-tennis
 
 ## Connect with me:
 [<img align="left" alt="ruag05 | LinkedIn" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />][linkedin]
