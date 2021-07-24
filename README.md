@@ -19,7 +19,7 @@
 
 ### Backend: ![nodejs](https://user-images.githubusercontent.com/60838010/126863075-429d548c-fc0d-4da0-b393-8ab170e95221.png) ![kafka](https://user-images.githubusercontent.com/60838010/126863576-1ad1c7d5-2353-4d1e-bdfb-c02169a2d9bb.png)
 
-### Tools: ![intelliJ](https://user-images.githubusercontent.com/60838010/126864111-712d492f-3949-4a21-9e78-17dbf2dfcea5.png) ![vscode](https://user-images.githubusercontent.com/60838010/126864114-59f8c76e-4904-4678-8b3b-f1619e6e7187.png) ![postman](https://user-images.githubusercontent.com/60838010/126864113-412ef0d6-34cc-43c7-8d55-dd2669d77caa.png) ![jira](https://user-images.githubusercontent.com/60838010/126864116-5c0077f4-4e12-421f-bb0c-464a9957677e.png) ![GitHub](https://user-images.githubusercontent.com/60838010/126864186-832eb079-967e-4d1a-9b82-3bb69fc74b51.png) 
+### Tools: ![intelliJ](https://user-images.githubusercontent.com/60838010/126864111-712d492f-3949-4a21-9e78-17dbf2dfcea5.png) ![vscode](https://user-images.githubusercontent.com/60838010/126864114-59f8c76e-4904-4678-8b3b-f1619e6e7187.png) ![postman](https://user-images.githubusercontent.com/60838010/126864113-412ef0d6-34cc-43c7-8d55-dd2669d77caa.png) ![jira](https://user-images.githubusercontent.com/60838010/126864116-5c0077f4-4e12-421f-bb0c-464a9957677e.png) ![GitHub](https://user-images.githubusercontent.com/60838010/126864186-832eb079-967e-4d1a-9b82-3bb69fc74b51.png) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="32" height="32"/>
 
 ### Testing: ![mocha](https://user-images.githubusercontent.com/60838010/126864265-0f2e02a1-ee61-4db7-885b-8d52cddefb6f.png) ![apache-jmeter](https://user-images.githubusercontent.com/60838010/126864304-44148a17-dd00-4bf2-a5bb-beedd595f829.png)
 
