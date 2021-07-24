@@ -27,7 +27,16 @@
 ![aws](https://user-images.githubusercontent.com/60838010/126864448-e93bcd59-5817-40d4-b5da-85f83a766e7b.png) ![kubernetes](https://user-images.githubusercontent.com/60838010/126864554-b233b535-dc97-4369-8c53-22444fdfe9f7.png) ![docker](https://user-images.githubusercontent.com/60838010/126864482-e97b5bb2-fab4-490c-b032-3f4ae9512aa9.png)
 
 ### Others:
-<img align="left" alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" /> <img align="left" alt="WindowsOS" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Windows_darkblue_2012.svg" /> <img align="left" alt="MacOS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29.svg" /> <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" /> <img align="left" alt="WindowsOS" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Windows_darkblue_2012.svg" /> <img align="left" alt="MacOS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29.svg" /> <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
+
+<br />
+
+## Stats:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruag05&layout=compact&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale=" alt="ruag05" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ruag05&show_icons=true&&count_private=true&include_all_commits=true&custom_title=My%20stats%20around%20here&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale=">
+  
+
 
 [instagram]: https://www.instagram.com/_ruchiragarwal/
 [linkedin]: https://www.linkedin.com/in/ruag05/
